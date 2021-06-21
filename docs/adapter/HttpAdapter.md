@@ -455,7 +455,7 @@ adapterSettings:
 [GET] /file/list
 ```
 
-**本接口为[GET]请求, 参数格式为参数格式为url参数**
+**本接口为[GET]请求, 参数格式为url参数**
 
 通用接口定义: [查看文件列表](../api/API.md#查看文件列表)
 
@@ -465,7 +465,7 @@ adapterSettings:
 [GET] /file/info
 ```
 
-**本接口为[GET]请求, 参数格式为参数格式为url参数**
+**本接口为[GET]请求, 参数格式为url参数**
 
 通用接口定义: [获取文件信息](../api/API.md#获取文件信息)
 
