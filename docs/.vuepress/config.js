@@ -29,7 +29,7 @@ module.exports = {
                     {text: "http轮询", link: "/adapter/HttpAdapter.html"},
                     {text: "websocket", link: "/adapter/WebsocketAdapter.html"},
                     {text: "反向websocket", link: "/adapter/ReverseWebsocketAdapter.html"},
-                    {text: "webhook上报", link: "/adapter/Webhook.html"},
+                    {text: "webhook上报", link: "/adapter/WebhookAdapter.html"},
                 ],
             },
         ],
