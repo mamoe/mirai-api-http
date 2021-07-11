@@ -1,4 +1,4 @@
-## Http Adapter
+## Webhook Adapter
 
 提供 http 回调形式的接口, 可单纯做上报使用
 
